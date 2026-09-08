@@ -1,0 +1,18 @@
+Section,Title,Primary_Source_URL,Source_Host,Passages_Retained,Words_Retained,Compiled_By,Data_Verification_Source
+1,GPS SPS Performance Standard 2020,https://www.gps.gov/performance-standards-specifications,gps.gov,10,840,Applied Analytics Archive,https://appliedanalyticsinc.com/#s1
+2,Space shuttle navigation analysis.  Volume 2:  Baseline system navigation,https://ntrs.nasa.gov/citations/19800022935,ntrs.nasa.gov,10,1578,Applied Analytics Archive,https://appliedanalyticsinc.com/#s2
+3,GPS/Optical/Inertial Integration for 3D Navigation Using Multi-Copter Platforms,https://ntrs.nasa.gov/citations/20170005464,ntrs.nasa.gov,10,1450,Applied Analytics Archive,https://appliedanalyticsinc.com/#s3
+4,Attitude Sensor and Gyro Calibration for Messenger,https://ntrs.nasa.gov/citations/20080012730,ntrs.nasa.gov,10,1695,Applied Analytics Archive,https://appliedanalyticsinc.com/#s4
+5,Absolute Navigation Performance of the Orion Exploration Fight Test 1,https://ntrs.nasa.gov/citations/20160001440,ntrs.nasa.gov,10,1478,Applied Analytics Archive,https://appliedanalyticsinc.com/#s5
+6,Airdata calibration of a high-performance aircraft for measuring atmospheric wind profiles,https://ntrs.nasa.gov/citations/19900004912,ntrs.nasa.gov,10,1496,Applied Analytics Archive,https://appliedanalyticsinc.com/#s6
+7,A Short Tutorial on Inertial Navigation System and Global Positioning System Integration,https://ntrs.nasa.gov/citations/20150018921,ntrs.nasa.gov,10,1531,Applied Analytics Archive,https://appliedanalyticsinc.com/#s7
+8,Application of GPS to Enable Launch Vehicle Upper Stage Heliocentric Disposal,https://ntrs.nasa.gov/citations/20170012384,ntrs.nasa.gov,10,1462,Applied Analytics Archive,https://appliedanalyticsinc.com/#s8
+9,Testing of the high accuracy inertial navigation system in the Shuttle Avionics Integration Lab,https://ntrs.nasa.gov/citations/19920004869,ntrs.nasa.gov,10,1609,Applied Analytics Archive,https://appliedanalyticsinc.com/#s9
+10,Integrated INS/GPS Navigation from a Popular Perspective,https://ntrs.nasa.gov/citations/20020041935,ntrs.nasa.gov,10,1466,Applied Analytics Archive,https://appliedanalyticsinc.com/#s10
+11,Orion Exploration Flight Test-l (EFT -1) Absolute Navigation Design,https://ntrs.nasa.gov/citations/20140011752,ntrs.nasa.gov,10,1492,Applied Analytics Archive,https://appliedanalyticsinc.com/#s11
+12,NASA modular GPS navigation software,https://ntrs.nasa.gov/citations/19960035766,ntrs.nasa.gov,10,1297,Applied Analytics Archive,https://appliedanalyticsinc.com/#s12
+13,NASA Space Shuttle navigation GPS IMU,https://ntrs.nasa.gov/citations/20100039589,ntrs.nasa.gov,10,1547,Applied Analytics Archive,https://appliedanalyticsinc.com/#s13
+14,Optimization of the effective GPS data rate,https://ntrs.nasa.gov/citations/19900011616,ntrs.nasa.gov,9,1243,Applied Analytics Archive,https://appliedanalyticsinc.com/#s14
+15,"Overview of NASA's Ocean Color Instrument Solar Calibration Architecture, Pre-Launch Tests and Preliminary On-Orbit Resu",https://ntrs.nasa.gov/citations/20240011496,ntrs.nasa.gov,10,1417,Applied Analytics Archive,https://appliedanalyticsinc.com/#s15
+16,An inertial velocity reference for the NASA airborne Doppler lidar,https://ntrs.nasa.gov/citations/19890001832,ntrs.nasa.gov,10,1565,Applied Analytics Archive,https://appliedanalyticsinc.com/#s16
+17,"Lightweight, Miniature Inertial Measurement System",https://ntrs.nasa.gov/citations/20120014137,ntrs.nasa.gov,7,974,Applied Analytics Archive,https://appliedanalyticsinc.com/#s17
